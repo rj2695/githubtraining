@@ -3,3 +3,7 @@ bom
 wi
 labels 
 rear
+
+
+octa
+camera basler
