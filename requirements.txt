@@ -7,3 +7,7 @@ rear
 
 octa
 camera basler
+
+
+payment mode
+video calls
